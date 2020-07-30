@@ -1,0 +1,18 @@
+/****************************************************************
+* Aim of this project to show how to make and use
+* static library.
+*
+* Use makefile for compile the static library "ariphm"
+* 
+* include "ariphm_lib.h" to use functions:
+* 1.  ariphm_add
+* 2.  ariphm_div
+* 3.  ariphm_mul
+* 4.  ariphm_sub
+*
+* It's unsafety version, works only with integer numbers
+* Anything effects that you can recive - 
+* on your own responsibility.
+*
+* apriph_main - in futurewill show simple version of "calculator"
+*****************************************************************/
